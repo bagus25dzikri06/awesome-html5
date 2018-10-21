@@ -310,6 +310,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [HTML5: Up and Running](https://www.amazon.com/HTML5-Running-Dive-Future-Development/dp/0596806027)
 * [Using the HTML5 Filesystem API](http://shop.oreilly.com/product/0636920021360.do)
 * [HTML5 Game Development Insights](http://www.apress.com/us/book/9781430266976)
+* [The Essential Guide to HTML5](https://www.amazon.com/Essential-Guide-HTML5-Using-JavaScript/dp/1430233834)
+* [Head First HTML5 Programming](https://www.amazon.com/Head-First-HTML5-Programming-JavaScript/dp/1449390544)
 
 ## Game development
 
